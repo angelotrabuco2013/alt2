@@ -17,7 +17,7 @@ const menuItems = [
         name: 'ChatGPT',
         description: 'A Project where you interact with ChatGPT!',
         file: ChatGPTfile,
-    },b
+    },
 ];
 
 export default menuItems;
