@@ -6,16 +6,17 @@
     cursor: pointer;
 }
 .body {
-    background-color: white;
-    color: black;
+    background-color: greenyellow;
+    color: white;
     margin: 0px;
+    font-family: 'Fredoka', sans-serif;
 }
 .main {
     margin: 20px;
 }
 .navbar ul{
     list-style-type: none;
-    background-color: grey;
+    background-color: greenyellow;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -28,11 +29,11 @@
     text-align: center;
 }
 .navbar a:hover {
-    background-color: rgb(98, 98, 98);
+    background-color: rgb(98, 146, 26);
 }
 .navbar li {
     float: left;
 }
 @media (prefers-color-scheme: dark) {
-    .body { background-color: #111; color: #eee; }
+    .body { background-color: rgb(120, 178, 32); color: #eee; }
 }
