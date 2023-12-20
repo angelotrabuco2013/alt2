@@ -6,8 +6,8 @@
     cursor: pointer;
 }
 .body {
-    background-color: greenyellow;
-    color: white;
+    background-color: white;
+    color: greenyellow;
     margin: 0px;
     font-family: 'Fredoka', sans-serif;
 }
