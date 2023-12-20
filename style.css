@@ -1,0 +1,38 @@
+.logo {
+    height:  1.6rem;
+    vertical-align: middle;
+}
+.logo.clickable {
+    cursor: pointer;
+}
+.body {
+    background-color: white;
+    color: black;
+    margin: 0px;
+}
+.main {
+    margin: 20px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover {
+    background-color: rgb(98, 98, 98);
+}
+.navbar li {
+    float: left;
+}
+@media (prefers-color-scheme: dark) {
+    .body { background-color: #111; color: #eee; }
+}
