@@ -1,35 +1,37 @@
-.logo {
+/* style.css */
+
+/* .logo {
     height:  1.6rem;
     vertical-align: middle;
 }
 .logo:hover {
     cursor: pointer;
-}
+} */
 .body {
     background-color: white;
     color: greenyellow;
     margin: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .main {
     margin: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .navbar ul{
     list-style-type: none;
-    background-color: greenyellow;
+    background-color: #006400;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .navbar2 ul{
     list-style-type: none;
-    background-color: greenyellow;
+    background-color: #006400;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .navbar a{
     color: white;
@@ -37,7 +39,7 @@
     padding: 15px;
     display: block;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .navbar2 a{
     color: white;
@@ -45,7 +47,7 @@
     padding: 15px;
     display: block;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .navbar a:hover {
     background-color: rgb(98, 146, 26);
@@ -60,5 +62,5 @@
     float: left;
 }
 @media (prefers-color-scheme: dark) {
-    .body { background-color: rgb(120, 178, 32); color: #eee; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+    .body { background-color: #006400; color: #eee; font-family: 'Roboto', sans-serif;}
 }
