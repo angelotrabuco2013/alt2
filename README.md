@@ -1,7 +1,2 @@
-# Dinosaurmod
-Dinosaurmod is a mod of Penguinmod with New Blocks, and new Extensions.
-### Example Projects.
-
-- [Profanity Detector](https://dinosaurmod.github.io/?project_url=https://raw.githubusercontent.com/Dinosaurmod/examples/main/src/dino-files/SwearDetector.dino)
-- [DinoClicker](https://dinosaurmod.github.io/?project_url=https://raw.githubusercontent.com/Dinosaurmod/examples/main/src/dino-files/DinoClicker.dino)
-- [ChatGPT](https://dinosaurmod.github.io/?project_url=https://raw.githubusercontent.com/Dinosaurmod/examples/main/src/dino-files/ChatGPT.dino)
+# alt2
+Second alternate revision of my website, has some social media accounts you can follow.
